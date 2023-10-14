@@ -1,5 +1,5 @@
 function DisplayJam() {
-  var date = new Date(); // Corrected 'Date' here
+  var date = new Date();
   var jam = date.getHours();
   var menit = date.getMinutes();
   var detik = date.getSeconds();
